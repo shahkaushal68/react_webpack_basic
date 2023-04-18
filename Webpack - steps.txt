@@ -1,0 +1,34 @@
+
+
+1) //dev version save
+
+npm i -D webpack webpack-cli webpack-dev-server webpack-merge html-webpack-plugin
+
+2) Utilizing Loaders 
+
+npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader
+
+3)
+npm i -D css-loader mini-css-extract-plugin sass sass-loader style-loader
+
+4)
+npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+
+5)
+npm i -D @babel/runtime
+
+6)
+npm i -D @babel/plugin-transform-runtime
+
+
+
+
+
+
+
+
+npm i react react-dom
+
+
+
+https://gitlab.com/WhiteOrangeSoftware/creditimperium.git
